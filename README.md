@@ -35,7 +35,7 @@ Features
 
 >> Zapper
 
--Delete Logs (Linux, FreeBSD), Some dirs and files are missing for Windows, but works (I think, not tested).
+- Delete Logs (Linux, FreeBSD), Some dirs and files are missing for Windows, but works (I think, not tested).
 
 >> Encrypt and Decrypt
 
